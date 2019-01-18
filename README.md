@@ -14,9 +14,7 @@ Our **WHY** is the purpose, the cause, or the belief that drives every organizat
 
 Your **WHY** is what sets you apart from everyone else. It’s your purpose. It’s what inspires you to take action. Your **WHY** is also what inspires others to take action, spread your ideas, or buy your products.
 
-Simon Sinek is a business author and motivational speaker. He has given lectures at The UN Global Compact Leaders Summit, and multiple [TED Talks](https://www.ted.com/talks?sort=newest&q=simon+sinek). **Find Your Why** is a follow up to his book **[Start With Why](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/ref=sr_1_3?ie=UTF8&qid=1547786185&sr=8-3&keywords=find+your+why)** where Simon illustrates **The Golden Circle**.
-
-After reading **[Find Your Why](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728)** by Simon Sinek, it left me motivated to **discover my WHY**. This repo is a collection of my notes and homework that I used to help discover my **WHY**.
+After reading [Find Your Why](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728) by Simon Sinek, it left me motivated to discover my **WHY**. This repo is a collection of my notes and homework that I used to help discover my **WHY**.
 
 
 ## How I Found My Why
