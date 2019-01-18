@@ -20,3 +20,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis tortor vel
 
 #### Why is a partner needed?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum dolor sapien, vel sollicitudin augue lobortis ut. Etiam rhoncus volutpat.
+
+#### What makes a good partner?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum dolor sapien, vel sollicitudin augue lobortis ut. Etiam rhoncus volutpat.
