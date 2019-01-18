@@ -34,4 +34,4 @@ Ultimatly you want to come up with a statement that illustrates two major pieces
 
 Statement Template:
 
-    **"TO _______ SO THAT _______"**
+    "TO _______ SO THAT _______"
