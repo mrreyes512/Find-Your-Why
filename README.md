@@ -2,6 +2,7 @@
 _A practical guide for discovering purpose for you and your team._
 
  [![Find Your Why.jpg](www/find_your_why.jpg)](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728)
+[![Start With Why.jpg](www/start_with_why.jpg)](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
 
 After reading this Simon Sinek's '[Find Your Why](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728)', it left me motivated to **discover my why**. This repo is a collection of my notes and homework that I used to help discover my why.
 
