@@ -35,11 +35,19 @@ Your WHY Statement should be:
 
 Your WHY statement should be able to encapsulate all of the qualities we just mentioned—and it should be able to do so in a single sentence.
 
-It should also be “evergreen,” meaning that it should be applicable to everything you do, both personally and professionally—without separation.
+It should also be “evergreen,” meaning that it should be applicable to everything you do, both personally and professionally.
 
 ### Individual Discovery Process
 
-steps go here
+Steps go here
+
+1) Lorem ipsum dolor sit amet
+2) Consectetur adipiscing elit
+3) Cras fermentum dolor sapien
+4) Vel sollicitudin augue lobortis ut
+5) Etiam rhoncus volutpat
+6) Consectetur adipiscing elit
+7) Lorem ipsum dolor sit amet
 
 ### Selection of a Partner
 
