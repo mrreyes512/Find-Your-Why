@@ -46,4 +46,6 @@ Statement Template:
 
 ## References
 
-* [Dean Bokhari - Find Your Why](https://www.deanbokhari.com/find-your-why/)
+* [How to Find Your Why and Communicate Your Purpose - Dean Bokhari](https://www.deanbokhari.com/find-your-why/)
+* [Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team - Simon Sinek, David Mead, Peter Docker](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728)
+* [Start With Why: How Great Leaders Inspire Everyone to Take Action - Simon Sinek](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/ref=sr_1_3?ie=UTF8&qid=1547786185&sr=8-3&keywords=find+your+why)
