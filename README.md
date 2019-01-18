@@ -23,3 +23,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum dolor sa
 
 #### What makes a good partner?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum dolor sapien, vel sollicitudin augue lobortis ut. Etiam rhoncus volutpat.
+
+
+### End Result
+
+Ultimatly you want to come up with a statement that illustrates two major pieces:
+
+* Contribution
+* Impact
+
+Statement Template:
+    **"TO _______ SO THAT _______"**
