@@ -2,19 +2,19 @@
 
 All businesses, organizations, and careers operate on three levels: (1) **WHAT** we do, (2) **HOW** we do it, and (3) **WHY** we do it.
 
-We’re all acquainted with **WHAT** we do—the products we sell, the services we offer, the jobs we do. A few of us know **HOW** we do it—the things we think differentiate us or make us unique compared to the rest of the crowd, or our competition. But only a handful of us can clearly articulate `WHY` we do what we do...
+We’re all acquainted with **WHAT** we do—the products we sell, the services we offer, the jobs we do. A few of us know **HOW** we do it—the things we think differentiate us or make us unique compared to the rest of the crowd, or our competition. But only a handful of us can clearly articulate **WHY** we do what we do...
 
-Our `WHY` is the purpose, the cause, or the belief that drives every organization and every person’s individual career.
+Our **WHY** is the purpose, the cause, or the belief that drives every organization and every person’s individual career.
 
 * WHY does your company exist?
 * WHY did you get out of bed this morning?
 * And WHY should anyone care?
 
-Your `WHY` is what sets you apart from everyone else. It’s your purpose. It’s what inspires you to take action. Your `WHY` is also what inspires others to take action, spread your ideas, or buy your products.
+Your **WHY** is what sets you apart from everyone else. It’s your purpose. It’s what inspires you to take action. Your **WHY** is also what inspires others to take action, spread your ideas, or buy your products.
 
  [![Find Your Why.jpg](www/find_your_why.jpg)](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728)
 
-After reading this Simon Sinek's **[Find Your Why](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728)**, it left me motivated to **discover my `WHY`**. This repo is a collection of my notes and homework that I used to help discover my `WHY`.
+After reading this Simon Sinek's **[Find Your Why](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728)**, it left me motivated to **discover my WHY**. This repo is a collection of my notes and homework that I used to help discover my **WHY**.
 
 ## Literature Overview
 
@@ -24,7 +24,7 @@ Simon Sinek is a business author and motivational speaker. He has given lectures
 
 ## How I Found My Why
 
-Your WHY Statement is the most effective possible way in which you can articulate your WHY—your purpose… Not just to other people, but to yourself as well.
+Your WHY Statement is the most effective possible way in which you can articulate your WHY—your purpose... Not just to other people, but to yourself as well.
 
 Your WHY Statement should be:
 
@@ -56,18 +56,18 @@ Ultimately you want to come up with a statement that illustrates two major piece
 
     "TO _ _ _ _ SO THAT _ _ _ _ "
 
-The first blank represents your contribution — the contribution you make to the lives others through your WHY. And the second blank represents the impact of your contribution.
+The first blank represents your contribution — the contribution you make to the lives others through your **WHY**. And the second blank represents the impact of your contribution.
 
 Your job is to plug-in the blanks to create your own unique WHY Statement.
 
 ### Example Statements
-Here’s how Simon Sinek, one of the co-authors of this book, expresses his WHY:
+Here’s how Simon Sinek, one of the co-authors of this book, expresses his **WHY**:
 
     “To inspire people to do the things that inspire them so that, together, we can change our world.”
 
 **The impact** Simon wants is for each of us to change the world, in however way we can, for the better.
 
-**The contribution** portion `to inspire people` is what ties it all together, bringing focus and direction to the impact he wants to make on the world. Simon’s contribution is essentially WHAT he does (to make his WHY a reality). The books he writes, the workshops he conducts, and the speeches he gives are all part of WHAT he does to move his cause forward—to inspire people to do what inspires them.
+**The contribution** portion `to inspire people` is what ties it all together, bringing focus and direction to the impact he wants to make on the world. Simon’s contribution is essentially WHAT he does (to make his **WHY** a reality). The books he writes, the workshops he conducts, and the speeches he gives are all part of WHAT he does to move his cause forward—to inspire people to do what inspires them.
 
 And the more he inspires people to do what inspires them, the more of an impact he has towards making the world a better place.
 
