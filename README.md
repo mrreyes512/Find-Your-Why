@@ -1,5 +1,12 @@
 # Find Your Why - Notes and Homework
-_A practical guide for discovering purpose for you and your team._
+
+All businesses, organizations, and careers operate on three levels:
+
+1) WHAT we do
+2) HOW we do it, and
+3) WHY we do it.
+
+We’re all acquainted with WHAT we do—the products we sell, the services we offer, the jobs we do. A few of us know HOW we do it—the things we think differentiate us or make us unique compared to the rest of the crowd, or our competition. But only a handful of us can clearly articulate WHY we do what we do...
 
  [![Find Your Why.jpg](www/find_your_why.jpg)](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728)
 
@@ -32,3 +39,7 @@ Ultimately you want to come up with a statement that illustrates two major piece
 Statement Template:
 
     "TO _ _ _ _ SO THAT _ _ _ _ "
+
+## References
+
+* [Dean Bokhari - Find Your Why](https://www.deanbokhari.com/find-your-why/)
