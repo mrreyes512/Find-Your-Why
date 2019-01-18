@@ -1,9 +1,9 @@
 # Find Your Why - Notes and Homework
 _A practical guide for discovering purpose for you and your team._
 
- [![Find Your Why.jpg](wwww/find_your_why.jpg)](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728)
+ [![Find Your Why.jpg](wwww/find_your_why.jpg)](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728))
 
-After reading this Simon Sinek's 'Find Your Why', it left me motivated to discover my why. This repo is a collection of notes and homework that I used to help discover my why.
+After reading this Simon Sinek's 'Find Your Why', it left me motivated to **discover my why**. This repo is a collection of my notes and homework that I used to help discover my why.
 
 ## Literature Overview
 
