@@ -1,20 +1,20 @@
 # Find Your Why - Notes and Homework
 
-All businesses, organizations, and careers operate on three levels: (1) WHAT we do, (2) HOW we do it, and (3) WHY we do it.
+All businesses, organizations, and careers operate on three levels: (1) **WHAT** we do, (2) **HOW** we do it, and (3) **WHY** we do it.
 
-We’re all acquainted with WHAT we do—the products we sell, the services we offer, the jobs we do. A few of us know HOW we do it—the things we think differentiate us or make us unique compared to the rest of the crowd, or our competition. But only a handful of us can clearly articulate WHY we do what we do...
+We’re all acquainted with **WHAT** we do—the products we sell, the services we offer, the jobs we do. A few of us know **HOW** we do it—the things we think differentiate us or make us unique compared to the rest of the crowd, or our competition. But only a handful of us can clearly articulate `WHY` we do what we do...
 
-Our WHY is the purpose, the cause, or the belief that drives every organization and every person’s individual career.
+Our `WHY` is the purpose, the cause, or the belief that drives every organization and every person’s individual career.
 
 * WHY does your company exist?
 * WHY did you get out of bed this morning?
 * And WHY should anyone care?
 
-Your WHY is what sets you apart from everyone else. It’s your purpose. It’s what inspires you to take action. Your WHY is also what inspires others to take action, spread your ideas, or buy your products.
+Your `WHY` is what sets you apart from everyone else. It’s your purpose. It’s what inspires you to take action. Your `WHY` is also what inspires others to take action, spread your ideas, or buy your products.
 
  [![Find Your Why.jpg](www/find_your_why.jpg)](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728)
 
-After reading this Simon Sinek's **[Find Your Why](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728)**, it left me motivated to **discover my why**. This repo is a collection of my notes and homework that I used to help discover my why.
+After reading this Simon Sinek's **[Find Your Why](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728)**, it left me motivated to **discover my `WHY`**. This repo is a collection of my notes and homework that I used to help discover my `WHY`.
 
 ## Literature Overview
 
