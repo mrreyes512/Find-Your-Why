@@ -33,4 +33,5 @@ Ultimatly you want to come up with a statement that illustrates two major pieces
 * Impact
 
 Statement Template:
+
     **"TO _______ SO THAT _______"**
