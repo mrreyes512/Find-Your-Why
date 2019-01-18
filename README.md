@@ -24,8 +24,22 @@ Simon Sinek is a business author and motivational speaker. He has given lectures
 
 ## How I Found My Why
 
-The reason you want to find your individual why is because....    
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis tortor vel est vulputate facilisis. Integer ornare tellus sed ipsum placerat vehicula. Duis sed congue odio. Vivamus id metus eget nibh venenatis euismod. Ut at interdum leo. Ut laoreet est nec dui vehicula, ac congue magna vestibulum. Pellentesque habitant morbi.
+Your WHY Statement is the most effective possible way in which you can articulate your WHY—your purpose… Not just to other people, but to yourself as well.
+
+Your WHY Statement should be:
+
+* Simple and Clear
+* Actionable
+* Focused on how you’ll contribute to others, and
+* Expressed in affirmative language that resonates with you
+
+Your WHY statement should be able to encapsulate all of the qualities we just mentioned—and it should be able to do so in a single sentence.
+
+It should also be “evergreen,” meaning that it should be applicable to everything you do, both personally and professionally—without separation.
+
+### Individual Discovery Process
+
+steps go here
 
 ### Selection of a Partner
 
@@ -36,13 +50,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum dolor sa
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum dolor sapien, vel sollicitudin augue lobortis ut. Etiam rhoncus volutpat.
 
 
-### End Result
+## WHY Statement Format
 
 Ultimately you want to come up with a statement that illustrates two major pieces: **Contribution** and **Impact**
 
-Statement Template:
-
     "TO _ _ _ _ SO THAT _ _ _ _ "
+
+The first blank represents your contribution — the contribution you make to the lives others through your WHY. And the second blank represents the impact of your contribution.
+
+Your job is to plug-in the blanks to create your own unique WHY Statement.
+
+### Example Statements
+Here’s how Simon Sinek, one of the co-authors of this book, expresses his WHY:
+
+    “To inspire people to do the things that inspire them so that, together, we can change our world.”
+
+**The impact** Simon wants is for each of us to change the world, in however way we can, for the better.
+
+**The contribution** portion `to inspire people` is what ties it all together, bringing focus and direction to the impact he wants to make on the world. Simon’s contribution is essentially WHAT he does (to make his WHY a reality). The books he writes, the workshops he conducts, and the speeches he gives are all part of WHAT he does to move his cause forward—to inspire people to do what inspires them.
+
+And the more he inspires people to do what inspires them, the more of an impact he has towards making the world a better place.
 
 ## References
 
