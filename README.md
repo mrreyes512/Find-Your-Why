@@ -27,10 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum dolor sa
 
 ### End Result
 
-Ultimatly you want to come up with a statement that illustrates two major pieces:
-
-* Contribution
-* Impact
+Ultimately you want to come up with a statement that illustrates two major pieces: **Contribution** and **Impact**
 
 Statement Template:
 
