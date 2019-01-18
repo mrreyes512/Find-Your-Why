@@ -7,6 +7,6 @@ After reading this Simon Sinek's 'Find Your Why', it left me motivated to discov
 
 ## Literature Overview
 
-Simon Sinek is a business author and motivational speaker. He has given lectures at The UN Global Compact Leaders Summit, and multiple TED Talks. _Find Your Why_ is a follow up to his book _Start With Why_ where Simon illustrates **The Golden Circle**.
+Simon Sinek is a business author and motivational speaker. He has given lectures at The UN Global Compact Leaders Summit, and multiple [TED Talks](https://www.ted.com/talks?sort=newest&q=simon+sinek). [Find Your Why](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728/ref=sr_1_2?ie=UTF8&qid=1547786185&sr=8-2&keywords=find+your+why) is a follow up to his book [Start With Why](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/ref=sr_1_3?ie=UTF8&qid=1547786185&sr=8-3&keywords=find+your+why) where Simon illustrates **The Golden Circle**.
 
 ![The Golden Circle](www/the_golden_circle_full.png)
