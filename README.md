@@ -38,6 +38,7 @@ It should also be “evergreen,” meaning that it should be applicable to every
 
 Steps go here
 
+_TODO: Finish steps below_
 1) Lorem ipsum dolor sit amet
 2) Consectetur adipiscing elit
 3) Cras fermentum dolor sapien
@@ -49,11 +50,15 @@ Steps go here
 ### Selection of a Partner
 
 #### Why is a partner needed?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum dolor sapien, vel sollicitudin augue lobortis ut. Etiam rhoncus volutpat.
+You'll need someone who'll push you to think beyond the surface, to go out of your comfort zone and uncover the memories and experiences that are the source of your WHY. Most 'Significant Others' will be too supportive, and not be able to voice an objective view.
 
 #### What makes a good partner?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fermentum dolor sapien, vel sollicitudin augue lobortis ut. Etiam rhoncus volutpat.
+You'll want to look for someone close enough to share significant stories from your past and not be embarrassed with. Someone that would be hearing the stories probably hearing these stories for the first time and have an objective voice.
 
+#### Where and When?
+Your interview should be conducted in an area free from distractions and both partners should respect the 'Do Not Disturb' options on their phones. I would suggest the requestor bring the interviewer's favorite beverage to this meeting. An average discovery should plan on around three hours.    
+**Locations to avoid**: Starbucks, Malls, Bars    
+**Preferable**: Your house (with beer!)
 
 ## WHY Statement Format
 
