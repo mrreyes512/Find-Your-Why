@@ -49,6 +49,9 @@ _TODO: Finish steps below_
 
 ### Selection of a Partner
 
+_TODO: Fix default description_   
+Check the [Partner Section](www/PartnerSection.pdf). 
+
 #### Why is a partner needed?
 You'll need someone who'll push you to think beyond the surface, to go out of your comfort zone and uncover the memories and experiences that are the source of your WHY. Most 'Significant Others' will be too supportive, and not be able to voice an objective view.
 
@@ -88,3 +91,4 @@ And the more he inspires people to do what inspires them, the more of an impact 
 * [Start With Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/ref=sr_1_3?ie=UTF8&qid=1547786185&sr=8-3&keywords=find+your+why)
 * [TED Talks: How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en)
 * [TED Talks: Why good leaders make you feel safe](https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe)
+* [Friends Exercise](https://startwithwhy.com/commit/test-your-why/)

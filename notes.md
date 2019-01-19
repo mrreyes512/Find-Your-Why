@@ -1,6 +1,6 @@
 # Find Your Why - Notes
 
-## Discover Your Why - Chapter Two
+## Discover Your WHY - Chapter Two
 
 ### Basic steps to discover WHY
 
@@ -32,3 +32,10 @@ Your WHY Statement will follow this format:
 The first blank will be filled with a **CONTRIBUTION** or action statement. "What do you want to do...?"
 
 The second section will be an **IMPACT** that you're actions will result in. "Whats the ultimate result you want to see?"
+
+
+## WHY Discovery for Individuals - Chapter Three
+
+### Story-Gathering - Peaks and Valleys Method
+
+Draw a horizontal line across the middle of a piece of paper. Happier memories go above the line, and challenging memories go below the line. Hopefully you'll end up with memories on both ends. 
