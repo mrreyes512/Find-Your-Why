@@ -57,8 +57,8 @@ You'll want to look for someone close enough to share significant stories from y
 
 #### Where and When?
 Your interview should be conducted in an area free from distractions and both partners should respect the 'Do Not Disturb' options on their phones. I would suggest the requestor bring the interviewer's favorite beverage to this meeting. An average discovery should plan on around three hours.    
-**Locations to avoid**: Starbucks, Malls, Bars    
-**Preferable**: Your house (with beer!)
+**Locations to avoid**: Starbucks, Malls, Bars, etc...   
+**Preferable**: Your house, with beer or wine (requestor buys)!
 
 ## WHY Statement Format
 
