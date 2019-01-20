@@ -39,3 +39,5 @@ The second section will be an **IMPACT** that you're actions will result in. "Wh
 ### Story-Gathering - Peaks and Valleys Method
 
 Draw a horizontal line across the middle of a piece of paper. Happier memories go above the line, and challenging memories go below the line. Hopefully you'll end up with memories on both ends.
+
+![Peaks and Valleys.jpg](www/peaks_and_valleys.jpg)
