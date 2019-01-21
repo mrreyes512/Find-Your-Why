@@ -1,6 +1,6 @@
 # Find Your Why - Notes
 
-Yarr... these be my notes from "Find Your Why"
+Yarr... these be my notes from "[Find Your Why](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/ref=sr_1_3?ie=UTF8&qid=1547786185&sr=8-3&keywords=find+your+why)", matey
 
 ## Start With Why - Chapter One
 
