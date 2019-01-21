@@ -38,7 +38,7 @@ Let's revisit our brief past. Look at the Railroad companies from the 19th to 20
 
 The **WHY** is an origin story. By looking at our past we can identify patterns. To uncover our **WHY** we must examine our standout memories / defining moments and identify connections. Discovering your **WHY** is like panning for gold in a river of the past: The gold is there, lost in the debris of the river, hidden by rushing water. Only when you take time to pan for the significant moments of the past, will they turn into a treasure.
 
-You'll want to come up with approximately 10+ memories that have made you, YOU. Professionally, personally, all things that standout of significance. Of those, you're looking for about **five to six memories** that made the biggest difference in your life. 
+You'll want to come up with approximately 10+ memories that have made you, **YOU**. Professionally, personally, all things that standout of significance. Of those, you're looking for about **five to six memories** that made the biggest difference in your life. See below on how to prioritize which memories should be discussed. 
 
 #### Identify Themes
 
