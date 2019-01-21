@@ -1,5 +1,7 @@
 # Find Your Why - Notes
 
+Yarr... these be my notes from "Find Your Why"
+
 ## Start With Why - Chapter One
 
 All businesses, organizations, and careers operate on three levels: (1) **WHAT** we do, (2) **HOW** we do it, and (3) **WHY** we do it.
