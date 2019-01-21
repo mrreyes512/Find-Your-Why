@@ -22,6 +22,14 @@ Examples include:
 ### Biking from Anderson Mill to San Marcos
 Plotted a challenging course from my house to Sandra's college. This did not succeed, but I learned how far I could push myself.
 
+### Leading ESWS certification
+Establishing an ESWS cert as one of the most JR ranks on our ship.
+Setting the example by my actions. "do as i show, not as i say"
+
+### Taking lead on multiple fire-teams for damage control teams
+Studies for nozzleman on shipboard fires and helo-bound fires.
+Got to show Sandra SCBA outfits
+
 ### Building a relationship on communication
 Maintained a dedicated **four year** relationship with Sandra.
 
