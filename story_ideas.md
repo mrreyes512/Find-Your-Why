@@ -16,11 +16,15 @@ This was a deciding factor to join the military. I knew I had to serve my countr
 In my Senior year, I chose to push myself in harder situations rather than going with the grain.
 Examples include:
   * Working out and powerlifting competitions
-  * not going out with people known for 'drug habits'
+  * not going out with people known for 'bad habits'
   * Triathlon competitions
 
 ### Biking from Anderson Mill to San Marcos
 Plotted a challenging course from my house to Sandra's college. This did not succeed, but I learned how far I could push myself.
+
+### Taking a leap into Navy
+This felt like a leap of faith and jumping into the unknown.
+It was more of a following my gut-instinct.
 
 ### Leading ESWS certification
 Establishing an ESWS cert as one of the most JR ranks on our ship.
@@ -32,6 +36,10 @@ Got to show Sandra SCBA outfits
 
 ### Building a relationship on communication
 Maintained a dedicated **four year** relationship with Sandra.
+
+### Leaving the military
+It seemed to be an easy choice, Sandra helped to influence
+Another leap of faith, that there was unknown on what to do or where to go next
 
 ### Conversation with Ed Burk
 This was the conversation that led me to looking into Cisco certifications
@@ -46,5 +54,12 @@ This is when it took me 3 tries to pass my CCNA exam, it proved that not giving 
 ### Migrating from Field Technician to NOC Analyst
 This was a BIG jump from installing layer 1 to troubleshooting Layer 2, Layer 3 issues in a Network Operations Center.
 
+### Inspiring Sandra to change carriers
+I was able to inspire Sandra to shift carriers from Health Care Coding to project mgmt of Graphical Designers
+Seeing her work in field that she enjoyed made me happy
+
 ### Children
 Understanding that life is not all about me... I need to think about those in my life
+
+### Developing a website with Olivia
+Teaching Olivia to code a website and seeing her understand how all these files work together
