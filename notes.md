@@ -1,5 +1,29 @@
 # Find Your Why - Notes
 
+## Start With Why - Chapter One
+
+All businesses, organizations, and careers operate on three levels: (1) **WHAT** we do, (2) **HOW** we do it, and (3) **WHY** we do it.
+
+We’re all acquainted with **WHAT** we do—the products we sell, the services we offer, the jobs we do. A few of us know **HOW** we do it—the things we think differentiate us or make us unique compared to the rest of the crowd, or our competition. But only a handful of us can clearly articulate **WHY** we do what we do...
+
+![The Golden Circle](www/the_golden_circle.png)
+
+### An Example Pitch with WHY
+
+Most sales pitches start with **WHAT** the company produces and explains their proprietary differences of **HOW** they produce their product.
+
+    "We sale paper. We Offer the highest quality product at the best possible price. Lower than any of our competitors. Wanna buy some?"
+
+Although this may sale a few units, it does not build loyalty with the consumer. Once another product offers a better price, that customer will migrate. Let's try the sales pitch again with **WHY** in the beginning.
+
+    "What is an idea if it can't be shared? Our company was founded to help spread ideas. The more ideas that are shared, the greater the likelihood those ideas will have an impact in the world. There are many ways to share ideas; one is the written word. That's where we come in. We make paper for those words. We make paper for big ideas. Wanna buy some?"
+
+The customer's that you acquire with your **WHY** will be customer's for much longer because, they too, believe in your cause.
+
+#### An Example From Our History
+
+Let's revisit our brief past. Look at the Railroad companies from the 19th to 20th centuries: At the time when traveling across the country was only feasible via a passenger train. There were so many companies that were developing the rails, cars, it was a BOOMING business. A company during those days that was dedicated toward railway development was sure to go far. Once another transportation method (Airlines) was introduced into the market, consumers flocked to the newer / faster. This shift caused many railroad companies to file for bankruptcy due to their business model focused on railroad development. If we were to revisit with **WHY** and have a company's focus on **Mass Transit Transportation** rather than railroad, that company could have shifted with the times. That company's propose would be evergreen and grow, unbound by technology. 
+
 ## Discover Your WHY - Chapter Two
 
 ### Basic steps to discover WHY
