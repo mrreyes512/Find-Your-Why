@@ -36,8 +36,12 @@ The second section will be an **IMPACT** that you're actions will result in. "Wh
 
 ## WHY Discovery for Individuals - Chapter Three
 
+Finding an Individual Discovery works best if you're prepared. The below diagram outlines the process from a high level.
+
+![Individual Discovery](www/individual_process.jpg)
+
 ### Story-Gathering - Peaks and Valleys Method
 
-Draw a horizontal line across the middle of a piece of paper. Happier memories go above the line, and challenging memories go below the line. Hopefully you'll end up with memories on both ends.
+Draw a horizontal line across the middle of a piece of paper. Happier memories go above the line, and challenging memories go below the line. Hopefully you'll end up with memories on both sides of the spectrum. As you dive into peer review statement focus on the ones on the higher end of the spectrums and if time allows, then cover the ones that are closer to the middle.
 
 ![Peaks and Valleys.jpg](www/peaks_and_valleys.jpg)
