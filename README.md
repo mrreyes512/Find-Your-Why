@@ -36,21 +36,26 @@ It should also be “evergreen,” meaning that it should be applicable to every
 
 ### Individual Discovery Process
 
-Steps go here
+1) Find your partner
+2) Get your partner up to speed
+3) Pic a time and place
+4) Gather your stories
+5) Share your stories
+6) Identify themes
+7) Draft your WHY
 
-_TODO: Finish steps below_
-1) Lorem ipsum dolor sit amet
-2) Consectetur adipiscing elit
-3) Cras fermentum dolor sapien
-4) Vel sollicitudin augue lobortis ut
-5) Etiam rhoncus volutpat
-6) Consectetur adipiscing elit
-7) Lorem ipsum dolor sit amet
+> Please see the [Discovery for Individuals section](https://github.com/mrreyes512/Find-Your-Why/blob/master/notes.md#why-discovery-for-individuals---chapter-three)
 
 ### Selection of a Partner
 
-_TODO: Fix default description_   
-Check the [Partner Section](www/PartnerSection.pdf).
+You'll want to find someone who:
+
+* Able to see the forest unfolding as you're describing the individual trees
+* Is **NOT** able to complete your thoughts/stories
+* Should be a strong enough relationship to deliver bad news, but not sour the relationship
+* Can go into an uncomfortable situation with you, and come out with an understanding that this discovery will help to benefit **YOU** and stay focused
+
+> Spouces are not traditionally NOT advised due to a strong relationship to the individual.
 
 #### Why is a partner needed?
 You'll need someone who'll push you to think beyond the surface, to go out of your comfort zone and uncover the memories and experiences that are the source of your WHY. Most 'Significant Others' will be too supportive, and not be able to voice an objective view.
@@ -91,4 +96,4 @@ And the more he inspires people to do what inspires them, the more of an impact 
 * [Start With Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/ref=sr_1_3?ie=UTF8&qid=1547786185&sr=8-3&keywords=find+your+why)
 * [TED Talks: How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en)
 * [TED Talks: Why good leaders make you feel safe](https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe)
-* [FYW Resource: Friends Exercise](https://startwithwhy.com/commit/test-your-why/)
+* [FindYourWhy Resource: Friends Exercise](https://startwithwhy.com/commit/test-your-why/)
