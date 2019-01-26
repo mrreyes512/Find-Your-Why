@@ -50,6 +50,7 @@ It should also be “evergreen,” meaning that it should be applicable to every
 
 You'll want to find someone who:
 
+* Able to see the forest unfolding as you're describing the individual trees
 * Is **NOT** able to complete your thoughts/stories
 * Should be a strong enough relationship to deliver bad news, but not sour the relationship
 * Can go into an uncomfortable situation with you, and come out with an understanding that this discovery will help to benefit **YOU** and stay focused
