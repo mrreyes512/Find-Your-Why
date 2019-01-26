@@ -36,21 +36,23 @@ It should also be “evergreen,” meaning that it should be applicable to every
 
 ### Individual Discovery Process
 
-Steps go here
-
-_TODO: Finish steps below_
-1) Lorem ipsum dolor sit amet
-2) Consectetur adipiscing elit
-3) Cras fermentum dolor sapien
-4) Vel sollicitudin augue lobortis ut
-5) Etiam rhoncus volutpat
-6) Consectetur adipiscing elit
-7) Lorem ipsum dolor sit amet
+1) Find your partner
+2) Get your partner up to speed
+3) Pic a time and place
+4) Gather your stories
+5) Share your stories
+6) Identify themes
+7) Draft your WHY
 
 ### Selection of a Partner
 
-_TODO: Fix default description_   
-Check the [Partner Section](www/PartnerSection.pdf).
+You'll want to find someone who:
+
+* Is **NOT** able to complete your thoughts/stories
+* Should be a strong enough relationship to deliver bad news, but not sour the relationship
+* Can go into an uncomfortable situation with you, and come out with an understanding that this discovery will help to benefit **YOU** and stay focused
+
+> Spouces are not traditionally advised due to a strong relationship to the individual.
 
 #### Why is a partner needed?
 You'll need someone who'll push you to think beyond the surface, to go out of your comfort zone and uncover the memories and experiences that are the source of your WHY. Most 'Significant Others' will be too supportive, and not be able to voice an objective view.
