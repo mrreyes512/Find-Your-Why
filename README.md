@@ -96,4 +96,4 @@ And the more he inspires people to do what inspires them, the more of an impact 
 * [Start With Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447/ref=sr_1_3?ie=UTF8&qid=1547786185&sr=8-3&keywords=find+your+why)
 * [TED Talks: How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en)
 * [TED Talks: Why good leaders make you feel safe](https://www.ted.com/talks/simon_sinek_why_good_leaders_make_you_feel_safe)
-* [FYW Resource: Friends Exercise](https://startwithwhy.com/commit/test-your-why/)
+* [FindYourWhy Resource: Friends Exercise](https://startwithwhy.com/commit/test-your-why/)
