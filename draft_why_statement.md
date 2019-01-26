@@ -15,34 +15,28 @@ Your job is to plug-in the blanks to create your own unique WHY Statement.
     Partner: Steven Maicach
     Location: His house
 
-### Steven's thoughts
+### [rough]Steven's thoughts
 
 * kept coming back to Pushing people
-
 * Push a team full of people
-
 * have vision and have people march toward it
-
 * get people to share your ideas
   * Idea inception
   * idea adoption
-
 * Looking for efficiencies of day to day
-
 * Stick to your gut
-
 * Vision
 
 ### Friend's Exercise
 
     "Why are you friends with me?""
 
-outlook on life
-help each other out
-good listener
-able to talk about things with you
-head screwed on shoulders
-never took advantage of other people
+* outlook on life
+* help each other out
+* good listener
+* able to talk about things with you
+* head screwed on shoulders
+* never took advantage of other people
 
 
 ## Draft Statement Trials
