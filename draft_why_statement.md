@@ -9,13 +9,13 @@ The first blank represents your contribution — the contribution you make to th
 Your job is to plug-in the blanks to create your own unique WHY Statement.
 
 
-## Partner Review
+## Partner Review - Steven
 
     Date: 21 Jan, 2019
     Partner: Steven Maicach
     Location: His house
 
-### [rough]Steven's thoughts
+### Steven's thoughts [rough-draft]
 
 * kept coming back to Pushing people
 * Push a team full of people
@@ -40,5 +40,23 @@ Your job is to plug-in the blanks to create your own unique WHY Statement.
 
 
 ## Draft Statement Trials
+
+Loose thoughts on how to compose a **Contribution** and **Impact** statement.
+
+### Compact
+
+* Push others
+* **Inspire individuals with unknown potential**
+* Build potential
+* Lead by example
+* Take one for the team
+
+### Impact
+
+* Develop new tools
+* Bloom beyond expectations
+* **Capitalize and flourish beyond their imagine**
+
+## Statement Rough Draft
 
 **TO** inspire individuals unknown potential **SO THAT** They are able to do things...
