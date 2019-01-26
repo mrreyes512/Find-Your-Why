@@ -44,6 +44,8 @@ It should also be “evergreen,” meaning that it should be applicable to every
 6) Identify themes
 7) Draft your WHY
 
+> Please see the [Discovery for Individuals section](https://github.com/mrreyes512/Find-Your-Why/blob/master/notes.md#why-discovery-for-individuals---chapter-three)
+
 ### Selection of a Partner
 
 You'll want to find someone who:
@@ -52,7 +54,7 @@ You'll want to find someone who:
 * Should be a strong enough relationship to deliver bad news, but not sour the relationship
 * Can go into an uncomfortable situation with you, and come out with an understanding that this discovery will help to benefit **YOU** and stay focused
 
-> Spouces are not traditionally advised due to a strong relationship to the individual.
+> Spouces are not traditionally NOT advised due to a strong relationship to the individual.
 
 #### Why is a partner needed?
 You'll need someone who'll push you to think beyond the surface, to go out of your comfort zone and uncover the memories and experiences that are the source of your WHY. Most 'Significant Others' will be too supportive, and not be able to voice an objective view.
