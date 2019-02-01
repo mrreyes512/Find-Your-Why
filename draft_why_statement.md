@@ -59,4 +59,6 @@ Threads from my user stories as told by Steven
 
 ### My WHY Statement
 
-> "**TO** reveal an individual's unknown potential **SO THAT** they are able to do achieve their extraordinary."
+![my_why_statement](my_why_statement.png)
+
+>"**TO** reveal an individual's unknown potential **SO THAT** they are able to achieve their extraordinary."
