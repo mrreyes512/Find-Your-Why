@@ -59,9 +59,14 @@ Threads from my user stories as told by Steven
 
 ### My WHY Statement
 
-"~**TO** inspire individual's unknown potential **SO THAT** They are able to do achieve their unimaginable.~"
+"~**TO** uncover individual's unknown potential **SO THAT** They are able to do achieve their unimaginable.~"
 
+* too many words starting with 'un'
+
+"~**TO** inspire individual's unknown potential **SO THAT** They are able to do achieve their unimaginable.~"    
 "~**TO** reveal an individual's unknown potential **SO THAT** they are able to achieve their extraordinary.~"
+
+* feels like it focused on a single individual, rather than a group setting
 
 "**TO** discover unknown potential in others **SO THAT** together, we are able to achieve the extraordinary"
 
