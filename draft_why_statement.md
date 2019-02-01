@@ -39,7 +39,7 @@ Your job is to plug-in the blanks to create your own unique WHY Statement.
 * never took advantage of other people
 
 
-## Draft WHY Statement
+## My WHY Statement Discovery
 
 Threads from my user stories as told by Steven
 
@@ -57,4 +57,6 @@ Threads from my user stories as told by Steven
 * Bloom beyond expectations
 * **Capitalize and flourish beyond their imagine**
 
-### **TO** reveal an individual's unknown potential **SO THAT** they are able to do achieve their extraordinary.
+### My WHY Statement
+
+"**TO** reveal an individual's unknown potential **SO THAT** they are able to do achieve their extraordinary."
