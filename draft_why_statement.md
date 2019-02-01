@@ -59,6 +59,6 @@ Threads from my user stories as told by Steven
 
 ### My WHY Statement
 
-![my_why_statement](my_why_statement.png)
+![my_why_statement](www/my_why_statement.png)
 
 >"**TO** reveal an individual's unknown potential **SO THAT** they are able to achieve their extraordinary."
