@@ -59,8 +59,10 @@ Threads from my user stories as told by Steven
 
 ### My WHY Statement
 
-[![my_why_statement](www/my_why_statement.png)](https://www.canva.com/design/DADQV-QvU2o/mZaIZfrGiRgeJ4P1EMaJnw/edit)
+"~**TO** inspire individual's unknown potential **SO THAT** They are able to do achieve their unimaginable.~"
 
 "~**TO** reveal an individual's unknown potential **SO THAT** they are able to achieve their extraordinary.~"
 
-"**TO** discover unknown potential **SO THAT** together, we are able to achieve the extraordinary"
+"**TO** discover unknown potential in others **SO THAT** together, we are able to achieve the extraordinary"
+
+[![my_why_statement](www/my_why_statement.png)](https://www.canva.com/design/DADQV-QvU2o/mZaIZfrGiRgeJ4P1EMaJnw/edit)
