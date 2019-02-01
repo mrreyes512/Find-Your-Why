@@ -70,4 +70,6 @@ Threads from my user stories as told by Steven
 
 "**TO** discover unknown potential in others **SO THAT** together, we are able to achieve the extraordinary"
 
+* This feels like more of an individual / group statement. 
+
 [![my_why_statement](www/my_why_statement.png)](https://www.canva.com/design/DADQV-QvU2o/mZaIZfrGiRgeJ4P1EMaJnw/edit)
