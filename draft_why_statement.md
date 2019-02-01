@@ -61,4 +61,4 @@ Threads from my user stories as told by Steven
 
 [![my_why_statement](www/my_why_statement.png)](https://www.canva.com/design/DADQV-QvU2o/mZaIZfrGiRgeJ4P1EMaJnw/edit)
 
->"**TO** reveal an individual's unknown potential **SO THAT** they are able to achieve their extraordinary."
+"**TO** ~reveal an individual's~ discover unknown potential **SO THAT** ~they~ together, we are able to achieve the~ir~ extraordinary."
