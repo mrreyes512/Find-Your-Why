@@ -39,11 +39,11 @@ Your job is to plug-in the blanks to create your own unique WHY Statement.
 * never took advantage of other people
 
 
-## Draft Statement Trials
+## Draft WHY Statement
 
-Loose thoughts on how to compose a **Contribution** and **Impact** statement.
+Threads from my user stories as told by Steven
 
-### Compact
+### My Contributions
 
 * Push others
 * **Inspire individuals with unknown potential**
@@ -51,12 +51,10 @@ Loose thoughts on how to compose a **Contribution** and **Impact** statement.
 * Lead by example
 * Take one for the team
 
-### Impact
+### The Impact
 
 * Develop new tools
 * Bloom beyond expectations
 * **Capitalize and flourish beyond their imagine**
 
-## Statement Rough Draft
-
-**TO** inspire individual's unknown potential **SO THAT** They are able to do achieve their unimaginable.
+### **TO** reveal an individual's unknown potential **SO THAT** they are able to do achieve their extraordinary.
