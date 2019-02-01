@@ -17,7 +17,7 @@ Your job is to plug-in the blanks to create your own unique WHY Statement.
 
 ### Steven's thoughts [rough-draft]
 
-* kept coming back to Pushing people
+* kept coming back to Pushing people for greater potential
 * Push a team full of people
 * have vision and have people march toward it
 * get people to share your ideas
