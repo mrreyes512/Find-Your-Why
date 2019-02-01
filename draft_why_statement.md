@@ -59,4 +59,4 @@ Loose thoughts on how to compose a **Contribution** and **Impact** statement.
 
 ## Statement Rough Draft
 
-**TO** inspire individuals unknown potential **SO THAT** They are able to do things...
+**TO** inspire individual's unknown potential **SO THAT** They are able to do achieve their unimaginable.
